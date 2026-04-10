@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.altitudesalonllc.com	TRUE	/	FALSE	1999999999	crumb	BRdH/Cbs6T7ZNGNhOTRkZWU5NDdmYWFlOTJhZjA0ODE3NzE1NmQ2
+altitude.aurasalonware.com	TRUE	/	FALSE	1999999999	__Secure-SessionId	1vk49i9phu96ala8n31156anleaceunqeeteuultkabgck7j55ajpg5bfcbd63dba5vtlq1vb89s6svngg2l4j98mue1d48l
+altitude.aurasalonware.com	TRUE	/	FALSE	1999999999	SameSite	None
+
